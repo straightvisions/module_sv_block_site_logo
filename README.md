@@ -1,1 +1,0 @@
-# module_sv_block_site_logo
